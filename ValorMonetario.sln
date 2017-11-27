@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValorMonetario", "ValorMonetario\ValorMonetario.csproj", "{186D6A9E-204C-473B-ACD2-6539A56E8E79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValorMonetario.Teste", "ValorMonetario.Teste\ValorMonetario.Teste.csproj", "{F6CA91E5-A522-4020-98F2-E4785B1EF273}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{186D6A9E-204C-473B-ACD2-6539A56E8E79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{186D6A9E-204C-473B-ACD2-6539A56E8E79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{186D6A9E-204C-473B-ACD2-6539A56E8E79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{186D6A9E-204C-473B-ACD2-6539A56E8E79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6CA91E5-A522-4020-98F2-E4785B1EF273}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6CA91E5-A522-4020-98F2-E4785B1EF273}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6CA91E5-A522-4020-98F2-E4785B1EF273}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6CA91E5-A522-4020-98F2-E4785B1EF273}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA62D001-CE07-4C04-91DC-4D6DC8CB7E91}
+	EndGlobalSection
+EndGlobal
